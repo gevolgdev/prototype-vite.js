@@ -2,5 +2,9 @@
 
 ## Instale suas dependências
 
-``npm install`` <br>
-``npm install -D tailwindcss postcss autoprefixer``
+```shell
+  npm install
+``` <br>
+```shell
+  npm install -D tailwindcss postcss autoprefixer
+ ```
