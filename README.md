@@ -2,6 +2,6 @@
 
 ## Instale sas dependências
 
-<code>
-  npm install
-</code>
+<code>npm install</code>
+
+``npm install``
