@@ -1,6 +1,6 @@
 # Protótipo
 
-## Instale sas dependências
+## Instale suas dependências
 
 ``npm install`` <br>
 ``npm install -D tailwindcss postcss autoprefixer``
