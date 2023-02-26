@@ -2,5 +2,5 @@
 
 ## Instale sas dependências
 
-``npm install``
+``npm install`` <br>
 ``npm install -D tailwindcss postcss autoprefixer``
